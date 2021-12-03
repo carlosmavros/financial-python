@@ -1,0 +1,9 @@
+#+title: Todo List for Financial Python project
+*  Financial Time Series
+
+** TODO
++ [ ] Importing financial data
++ [ ] Parameter Estimation for Brownian Motion
+
+
+

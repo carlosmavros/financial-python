@@ -1,0 +1,5 @@
+#+title: Finance in Python
+
+This is working project.
+
+This library consists of various tools developed to model and analyse financial data.
